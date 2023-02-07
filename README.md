@@ -5,7 +5,7 @@
 
 You have the option to generate gcode that moves your cnc router between two points on a given axis according to the set feed rate and repetition frequency.
 
-## Program functions:  
+## Functions:  
 
 1. Unit: mm or inch (currently only work with metric unit) 
 2. Machine Feed Rate (mm/min) 
