@@ -3,7 +3,7 @@
 
 Description:
 
-You have the option to generate gcode that moves your cnc router between two points on a given axis according to the set feed rate and repetition frequency
+You have the option to generate gcode that moves your cnc router between two points on a given axis according to the set feed rate and repetition frequency.
 
 Program functions:  
 
