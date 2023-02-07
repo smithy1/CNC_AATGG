@@ -15,3 +15,5 @@ You have the option to generate gcode that moves your cnc router between two poi
 6. Loop time - (how many times to repeat at the set start and end point.) 
 7. Last Stop Position - (where to stop in the last point.) 
 8. GCode - (If you press it, it will generate a file on the desktop, for example gcodeX1000.gcode with gcode extension.)
+
+## [Wiki](https://github.com/smithy1/CNC_AATGG/wiki)
